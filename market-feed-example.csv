@@ -1,0 +1,5 @@
+id,marketId,price,salePrice,currency
+TV_123456,Kyiv_1,3000.00,2980.00,UAH
+TV_123456,Kyiv_2,2990.00,2960.00,UAH
+Laptop_1234590,Dnipro,12900.00,12800.00,UAH
+Laptop_1234590,Odessa,13100.00,13000.00,UAH
