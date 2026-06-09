@@ -1,5 +1,5 @@
-id,marketId,price,salePrice,currency
-24-WG080,Kyiv_1,3000.00,2980.00,UAH
-24-UG04,Kyiv_2,2990.00,2960.00,UAH
-MT12-L-Blue,Dnipro,12900.00,12800.00,UAH
-MT10-S-Yellow,Odessa,13100.00,13000.00,UAH
+id,marketId,price,salePrice,currency,availability
+24-WG080,Kyiv_1,3000.00,2980.00,UAH,1
+24-UG04,Kyiv_2,2990.00,2960.00,UAH,0
+MT12-L-Blue,Dnipro,12900.00,12800.00,UAH,1
+MT10-S-Yellow,Odessa,13100.00,13000.00,UAH,1
