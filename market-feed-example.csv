@@ -1,9 +1,9 @@
-id,marketId,price,currency,availability
-24-WG080,Kyiv_1,3000.00,UAH,1
-24-UG04,Kyiv_2,2990.00,UAH,0
-MT12-L-Blue,Dnipro,12900.00,UAH,1
-MT10-S-Yellow,Odessa,13100.00,UAH,1
-Hobbit Bag,Kyiv_1,555.00,UAH,1
-Hobbit Bag,Dnipro_1,777.00,UAH,1
-Hobbit Bag,Lviv_1,555.00,UAH,0
-24-WB01,Dnipro,12900.00,UAH,1
+id,marketId,price,currency,availability,salePrice,new
+24-WG080,Kyiv_1,3000.00,UAH,1,2500.00,1
+24-UG04,Kyiv_2,2990.00,UAH,0,2500.00,1
+MT12-L-Blue,Dnipro,12900.00,UAH,1,2500.00,1
+MT10-S-Yellow,Odessa,13100.00,UAH,1,2500.00,1
+Hobbit Bag,Kyiv_1,555.00,UAH,1,444,1
+Hobbit Bag,Dnipro_1,777.00,UAH,1,555,1
+Hobbit Bag,Lviv_1,555.00,UAH,0,222,1
+24-WB01,Dnipro,12900.00,UAH,1,9999,1
